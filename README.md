@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **mobile development**
 
-- 📝 I regularly write articles on [medium.com/sefadalgic](medium.com/sefadalgic)
+- 📝 I regularly write articles on [medium](medium.com/sefadalgic)
 
 - 💬 Ask me about **dart, flutter, kotlin, android development**
 
